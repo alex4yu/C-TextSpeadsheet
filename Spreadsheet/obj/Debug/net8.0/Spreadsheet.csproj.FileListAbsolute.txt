@@ -1,0 +1,14 @@
+C:\C#\Spreadsheet\bin\Debug\net8.0\Spreadsheet.exe
+C:\C#\Spreadsheet\bin\Debug\net8.0\Spreadsheet.deps.json
+C:\C#\Spreadsheet\bin\Debug\net8.0\Spreadsheet.runtimeconfig.json
+C:\C#\Spreadsheet\bin\Debug\net8.0\Spreadsheet.dll
+C:\C#\Spreadsheet\bin\Debug\net8.0\Spreadsheet.pdb
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.AssemblyInfo.cs
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.dll
+C:\C#\Spreadsheet\obj\Debug\net8.0\refint\Spreadsheet.dll
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.pdb
+C:\C#\Spreadsheet\obj\Debug\net8.0\Spreadsheet.genruntimeconfig.cache
+C:\C#\Spreadsheet\obj\Debug\net8.0\ref\Spreadsheet.dll

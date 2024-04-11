@@ -1,0 +1,17 @@
+Hello this is a simple spreadsheet program that can store 3 types of cells. 
+Text cells which contain text, formula cells which contain a mathematical 
+expression and percent cells which store a percent. 
+The rows are labeled A-J and the columns 1-10.
+To set a cell to a value start with the row letter then column followed by a 
+space then equals sign like 'G6 ='.
+A text cell is set by enclosing a phrase in double quotes after the equals.
+A4 = "Hello World"
+The space after the equals is important. 
+A forumla cell is set by enclosing a math expression with parentheses
+B10 = (2/(3*5) + 7)
+A percent cell is created by entering a decimal number followed by a percent sign
+C8 = 23.94%
+To print the value of a single cell input the location of the cell on the grid. 
+e.g. B10
+To print the entire grid input "print grid"
+To copy a spreadsheet into a text file input "copy grid example.txt"
